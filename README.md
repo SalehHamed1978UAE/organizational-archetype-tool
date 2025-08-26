@@ -1,6 +1,19 @@
-# Organizational Archetype Recommendation Tool
+# Organizational Archetype Recommendation Tool - FIXED VERSION
 
-An interactive assessment tool that helps Data & AI product companies in Abu Dhabi discover their optimal organizational structure.
+This is the corrected version that works properly on GitHub Pages.
+
+## Quick Fix Instructions
+
+1. **Replace all files** in your GitHub repository with the files from this folder
+2. **Commit the changes** to your repository
+3. **Wait 2-3 minutes** for GitHub Pages to rebuild
+4. **Test your URL**: https://salehhamed1978uae.github.io/organizational-archetype-tool/
+
+## What Was Fixed
+
+- Updated asset paths to work with GitHub Pages subdirectory structure
+- Fixed CSS and JavaScript loading issues
+- Ensured proper base path configuration
 
 ## Features
 
@@ -9,25 +22,6 @@ An interactive assessment tool that helps Data & AI product companies in Abu Dha
 - Nuanced recommendations for mixed scenarios
 - Mobile-responsive design
 - Export functionality
-
-## Live Demo
-
-This tool is deployed and ready to use. Simply open `index.html` in a web browser or deploy to any web hosting service.
-
-## Quick Deployment to GitHub Pages
-
-1. Create a new repository on GitHub
-2. Upload all files from this folder to the repository
-3. Go to Settings > Pages
-4. Select "Deploy from a branch" and choose "main"
-5. Your tool will be available at: `https://yourusername.github.io/repository-name`
-
-## Alternative Deployment Options
-
-- **Netlify**: Drag and drop this folder to netlify.com
-- **Vercel**: Connect your GitHub repository to vercel.com
-- **Surge**: Run `surge .` in this directory
-- **Any web server**: Upload files to your web hosting service
 
 ## Usage
 
@@ -40,11 +34,10 @@ The tool guides users through a structured assessment to recommend one of three 
 ## Technical Details
 
 - Built with React.js and Tailwind CSS
+- Optimized for GitHub Pages deployment
 - No backend required - runs entirely in the browser
 - Mobile-responsive design
 - Works offline after initial load
 
-## License
-
-Open source - feel free to modify and distribute.
+This version is specifically configured to work correctly on GitHub Pages!
 
